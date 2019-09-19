@@ -1,0 +1,29 @@
+.jumbotron-title {
+    background-color: #1E79A6;
+    color: white;
+}
+
+.text_deck {
+    color: #1E79A6;
+}
+
+.floating_button {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    bottom: 30px;
+    vertical-align: middle;
+    text-align: center;
+    right: 30px;
+    background-color: #1E79A6;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    color: white;
+    cursor: pointer;
+}
+
+.floating_button:hover {
+    background-color: #82C8EA;
+}
